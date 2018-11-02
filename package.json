@@ -1,0 +1,35 @@
+{
+  "name": "tracking-data",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cuo9958/tracking-data.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cuo9958/tracking-data/issues"
+  },
+  "homepage": "https://github.com/cuo9958/tracking-data#readme",
+  "dependencies": {
+    "amqplib": "^0.5.2",
+    "art-template": "^4.13.1",
+    "axios": "^0.18.0",
+    "config": "^2.0.1",
+    "koa": "^2.6.1",
+    "koa-art-template": "^1.1.1",
+    "koa-body": "^4.0.4",
+    "koa-router": "^7.4.0",
+    "koa-static": "^5.0.0",
+    "log4js": "^3.0.6"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.5"
+  }
+}
